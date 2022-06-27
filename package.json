@@ -1,0 +1,11 @@
+{
+  "name": "lauragrosso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/elialombardi/lauragrosso.git",
+  "author": "Elia Lombardi <elia.lombardi@outlook.it>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

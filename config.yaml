@@ -1,14 +1,19 @@
 baseURL: "https://elialombardi.github.io/lauragrosso/"
 languageCode: "en-us"
 title: "Laura Grosso Test"
-theme: "PaperMod"
+theme: "mytheme"
 enableRobotsTXT: true
 publishdir: "./docs/"
 
-minify:
-  disableXML: true
-  minifyOutput: true
+module:
+  mounts:
+    source: "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    target: "assets/js/bootstrap.bundle.min.js"
 
-params:
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
+# minify:
+#   disableXML: true
+#   minifyOutput: true
+
+# params:
+#   defaultTheme: auto # dark, light
+#   disableThemeToggle: false
