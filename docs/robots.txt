@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://lauragrosso.github.io/sitemap.xml
+Sitemap: https://elialombardi.github.io/lauragrosso/sitemap.xml
