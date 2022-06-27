@@ -1,0 +1,8 @@
+[submodule "lauragrosso_website/lauragrosso.github.io"]
+	path = lauragrosso_website/lauragrosso.github.io
+	url = https://github.com/elialombardi/lauragrosso.github.io.git
+	branch = main
+[submodule "lauragrosso_website/public"]
+	path = lauragrosso_website/public
+	url = https://github.com/elialombardi/lauragrosso.github.io.git
+	branch = main
