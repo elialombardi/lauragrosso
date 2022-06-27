@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "Laura Grosso Test"
 theme: "PaperMod"
 enableRobotsTXT: true
+publishdir: "./docs/"
 
 minify:
   disableXML: true
