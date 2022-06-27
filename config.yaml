@@ -1,0 +1,13 @@
+baseURL: "http://lauragrosso.github.io/"
+languageCode: "en-us"
+title: "Laura Grosso"
+theme: "PaperMod"
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
