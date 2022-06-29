@@ -1,0 +1,26 @@
+<head>
+    <title>{{ .Site.Title }}{{if not .IsHome }} - {{ .Title }}{{end}}</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Website meta description for google search results go here" />
+    <meta name="dc.relation" content="{{ .Site.BaseURL }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#1A94D2" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- 
+        include a favicon for your site if you have it, else omit the line below 
+        Location of favicon can be in mytheme/static/favicon.ico
+    -->
+    <link rel='shortcut icon' type='image/x-icon' href='{{.Site.BaseURL }}/favicon.ico' />
+    {{/* {{ $style := resources.Get "scss/style.scss" | resources.ToCSS (dict "outputStyle" "compressed") | fingerprint
+    }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}"> */}}
+    {{ $style := resources.Get "scss/style.scss" | resources.ToCSS (dict "outputStyle" "compressed") | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{/*
+    <link rel="stylesheet" href="{{.Site.BaseURL }}/css/main.css"> */}}
+
+</head>

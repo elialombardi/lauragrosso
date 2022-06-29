@@ -1,0 +1,31 @@
+// // src/assets/scss/style.scss
+
+// @import "bootstrap/functions";
+// @import "bootstrap/variables";
+// @import "bootstrap/maps";
+// @import "bootstrap/mixins";
+// @import "bootstrap/utilities";
+// @import "bootstrap/root";
+// @import "bootstrap/reboot";
+// @import "bootstrap/type";
+// @import "bootstrap/images";
+// @import "bootstrap/containers";
+// @import "bootstrap/grid";
+// @import "bootstrap/tables";
+// // @import "bootstrap/forms";
+// @import "bootstrap/buttons";
+// @import "bootstrap/transitions";
+// @import "bootstrap/dropdown";
+// // @import "bootstrap/button-group";
+// //
+// // ...and the rest of the Bootstrap imports
+
+$width: 440px;
+
+.nav-link.main-nav-link {
+  color: #666;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+// @import "shortcodes/homepictures.scss"

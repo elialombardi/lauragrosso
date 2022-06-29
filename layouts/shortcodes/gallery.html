@@ -1,0 +1,43 @@
+{{/*
+<link type="text/css" rel="stylesheet" href="{{.Site.BaseURL}}/libs/css/lightgallery.css" />
+
+<!-- lightgallery plugins -->
+<link type="text/css" rel="stylesheet" href="{{.Site.BaseURL}}/libs/css/lg-zoom.css" />
+<link type="text/css" rel="stylesheet" href="{{.Site.BaseURL}}/libs/css/lg-thumbnail.css" /> */}}
+
+
+<!-- OR -->
+<script src="{{.Site.BaseURL}}/libs/lightgallery/lightgallery.min.js"></script>
+
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/zoom/lg-zoom.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/autoplay/lg-autoplay.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/comment/lg-comment.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/fullscreen/lg-fullscreen.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/hash/lg-hash.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/pager/lg-pager.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/rotate/lg-rotate.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/share/lg-share.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/thumbnail/lg-thumbnail.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/video/lg-video.min.js"></script>
+{{/*
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/mediumZoom/lg-mediumZoom.min.js"></script> */}}
+
+<link type="text/css" rel="stylesheet" href="{{.Site.BaseURL}}/libs/lightgallery/css/lightgallery-bundle.css" />
+
+<div id="lightgallery">
+  {{ range .Page.Params.images_data }}
+  {{$image := $.Page.Resources.GetMatch (.img)}}
+  {{ $resized := $image.Fill "150x115 q20" }}
+  <a href="{{ $image.Permalink }}" data-sub-html="<h4>{{.title}}</h4><p>{{.description}}</p>">
+    <img src="{{ $resized.Permalink }}" />
+  </a>
+  {{ end }}
+</div>
+
+<script type="text/javascript">
+  lightGallery(document.getElementById('lightgallery'), {
+    plugins: [lgZoom, lgThumbnail],
+    speed: 500,
+    thumbnail: true,
+  });
+</script>

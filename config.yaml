@@ -1,15 +1,33 @@
 baseURL: "https://elialombardi.github.io/lauragrosso/"
 languageCode: "en-us"
 title: "Laura Grosso Test"
-theme: "mytheme"
 enableRobotsTXT: true
 publishdir: "./docs/"
 
-module:
-  mounts:
-    source: "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
-    target: "assets/js/bootstrap.bundle.min.js"
+menu:
+  main:
+    - name: Roma
+      url: /galleries/roma
+      weight: -130
 
+    - name: Umani
+      url: /galleries/umani
+      weight: -129
+    - name: Persone
+      url: /galleries/persone
+      weight: -128
+
+    - name: Nature Morte
+      url: /galleries/nature-morte
+      weight: -127
+
+    - name: CV
+      url: /cv
+      weight: -110
+
+    - name: Blog
+      url: /blog
+      weight: -120
 # minify:
 #   disableXML: true
 #   minifyOutput: true
