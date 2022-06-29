@@ -1,19 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laura Grosso Test</title>
+    <title>Home on Laura Grosso Test</title>
     <link>https://elialombardi.github.io/lauragrosso/</link>
-    <description>Recent content on Laura Grosso Test</description>
+    <description>Recent content in Home on Laura Grosso Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 19:40:41 +0200</lastBuildDate><atom:link href="https://elialombardi.github.io/lauragrosso/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 10:00:00 +0100</lastBuildDate><atom:link href="https://elialombardi.github.io/lauragrosso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://elialombardi.github.io/lauragrosso/blog/post-2/</link>
+      <pubDate>Tue, 28 Jun 2022 12:52:30 +0200</pubDate>
+      
+      <guid>https://elialombardi.github.io/lauragrosso/blog/post-2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>First Post</title>
-      <link>https://elialombardi.github.io/lauragrosso/posts/first-post/</link>
-      <pubDate>Mon, 27 Jun 2022 19:40:41 +0200</pubDate>
+      <link>https://elialombardi.github.io/lauragrosso/blog/post-1/</link>
+      <pubDate>Tue, 28 Jun 2022 12:52:14 +0200</pubDate>
       
-      <guid>https://elialombardi.github.io/lauragrosso/posts/first-post/</guid>
-      <description>This is some contet</description>
+      <guid>https://elialombardi.github.io/lauragrosso/blog/post-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cv</title>
+      <link>https://elialombardi.github.io/lauragrosso/cv/</link>
+      <pubDate>Tue, 28 Jun 2022 12:49:12 +0200</pubDate>
+      
+      <guid>https://elialombardi.github.io/lauragrosso/cv/</guid>
+      <description>Laura Grosso è nata a Bari nel 1955, risiede a Roma dal 1966. Compie la sua formazione a Roma presso liceo Artistico e accademia di Belle Arti di via Ripetta, guidata dai maestri Poggi, Fraschetti e Ziveri, che la introducono alla Pittura del novecento italiano. Sceglie di concentrare la propria ricerca sulla sola Pittura e specificamente sulla luce. Dipinge en plein air in Italia, negli Stati Uniti, in Germania e, insieme ad altri pittori, in Cina, in Palestina e in Francia.</description>
+    </item>
+    
+    <item>
+      <title>Nature Morte</title>
+      <link>https://elialombardi.github.io/lauragrosso/galleries/nature-morte/</link>
+      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
+      
+      <guid>https://elialombardi.github.io/lauragrosso/galleries/nature-morte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persone</title>
+      <link>https://elialombardi.github.io/lauragrosso/galleries/persone/</link>
+      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
+      
+      <guid>https://elialombardi.github.io/lauragrosso/galleries/persone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roma</title>
+      <link>https://elialombardi.github.io/lauragrosso/galleries/roma/</link>
+      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
+      
+      <guid>https://elialombardi.github.io/lauragrosso/galleries/roma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umani</title>
+      <link>https://elialombardi.github.io/lauragrosso/galleries/umani/</link>
+      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
+      
+      <guid>https://elialombardi.github.io/lauragrosso/galleries/umani/</guid>
+      <description></description>
     </item>
     
   </channel>
