@@ -10,6 +10,7 @@
 <script src="{{.Site.BaseURL}}/libs/lightgallery/lightgallery.min.js"></script>
 
 <script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/zoom/lg-zoom.min.js"></script>
+<script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/mediumZoom/lg-medium-zoom.min.js"></script>
 <script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/autoplay/lg-autoplay.min.js"></script>
 <script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/comment/lg-comment.min.js"></script>
 <script src="{{.Site.BaseURL}}/libs/lightgallery/plugins/fullscreen/lg-fullscreen.min.js"></script>
@@ -36,8 +37,10 @@
 
 <script type="text/javascript">
   lightGallery(document.getElementById('lightgallery'), {
-    plugins: [lgZoom, lgThumbnail],
+    plugins: [lgMediumZoom, lgZoom, lgThumbnail],
     speed: 500,
     thumbnail: true,
+    mediumZoom: true,
+    margin: 100,
   });
 </script>

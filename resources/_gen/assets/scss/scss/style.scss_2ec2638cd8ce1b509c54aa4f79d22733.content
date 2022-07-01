@@ -1,1 +1,1 @@
-.nav-link.main-nav-link{color:#666;font-size:1.2em;font-weight:bold}
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap");body{font-family:'Nanum Gothic', sans-serif;font-weight:100}.nav-link{color:#666}.nav-link.main-nav-link{font-size:1.2em;font-weight:700}

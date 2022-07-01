@@ -19,13 +19,22 @@
 // // @import "bootstrap/button-group";
 // //
 // // ...and the rest of the Bootstrap imports
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: 100;
+}
 
 $width: 440px;
 
-.nav-link.main-nav-link {
+.nav-link {
   color: #666;
-  font-size: 1.2em;
-  font-weight: bold;
+
+  &.main-nav-link {
+    font-size: 1.2em;
+    font-weight: 700;
+  }
 }
 
 // @import "shortcodes/homepictures.scss"
