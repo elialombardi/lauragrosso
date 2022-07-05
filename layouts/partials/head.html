@@ -15,12 +15,11 @@
         Location of favicon can be in mytheme/static/favicon.ico
     -->
     <link rel='shortcut icon' type='image/x-icon' href='{{.Site.BaseURL }}/favicon.ico' />
-    {{/* {{ $style := resources.Get "scss/style.scss" | resources.ToCSS (dict "outputStyle" "compressed") | fingerprint
-    }}
+
     <link rel="stylesheet" href="{{ $style.Permalink }}"> */}}
-    {{ $style := resources.Get "scss/style.scss" | resources.ToCSS (dict "outputStyle" "compressed") | fingerprint }}
+
     <link rel="stylesheet" href="{{ $style.Permalink }}">
-    {{/*
+
     <link rel="stylesheet" href="{{.Site.BaseURL }}/css/main.css"> */}}
 
 </head>
