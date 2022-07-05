@@ -37,4 +37,11 @@ $width: 440px;
   }
 }
 
+#lightgallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
 // @import "shortcodes/homepictures.scss"
