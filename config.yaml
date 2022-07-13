@@ -3,6 +3,8 @@ languageCode: "en-us"
 title: "Laura Grosso Test"
 enableRobotsTXT: true
 publishdir: "./docs/"
+params:
+  description: "Arte della Pittura"
 
 menu:
   main:
