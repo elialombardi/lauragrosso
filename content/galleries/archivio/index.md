@@ -56,13 +56,13 @@ images_data:
   title: "Figure danzanti 2020"
   description: "olio su tela 40×50 cm."
 
-- img: "donna-che-canta-acrilico-olio-su-tela-40x50-cm-822x1024.jpg"
-  title: "Donna che canta"
-  description: "acrilico olio su tela 40×50 cm."
+# - img: "donna-che-canta-acrilico-olio-su-tela-40x50-cm-822x1024.jpg"
+#   title: "Donna che canta"
+#   description: "acrilico olio su tela 40×50 cm."
 
-- img: "2019_in-viaggio-3_-acrilico_olio-su-tela-40x50-cm-1024-822x1024.jpg"
-  title: "On the road"
-  description: "acrilico olio su tela 50×50 cm."
+# - img: "2019_in-viaggio-3_-acrilico_olio-su-tela-40x50-cm-1024-822x1024.jpg"
+#   title: "On the road"
+#   description: "acrilico olio su tela 50×50 cm."
 
 - img: "in-viaggio-2-acrilico-olio-tela-50x50-2-1024.jpg"
   title: "On the road"
