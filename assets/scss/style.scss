@@ -19,7 +19,29 @@
 // // @import "bootstrap/button-group";
 // //
 // // ...and the rest of the Bootstrap imports
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+
+@font-face {
+  font-family: "Nanum Gothic";
+  src: url("/lauragrosso/fonts/nanum-gothic/NanumGothic-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal
+}
+
+// @font-face {
+//   font-family: "Nanum Gothic";
+//   src: url("/lauragrosso/fonts/nanum-gothic/NanumGothic-Bold.ttf") format("truetype");
+//   font-weight: bold;
+//   font-style: normal
+// }
+
+// @font-face {
+//   font-family: "Nanum Gothic";
+//   src: url("/lauragrosso/fonts/nanum-gothic/NanumGothic-ExtraBold.ttf") format("truetype");
+//   font-weight: bolder;
+//   font-style: normal
+// }
+
 
 body {
   font-family: 'Nanum Gothic', sans-serif;
