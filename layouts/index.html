@@ -1,16 +1,14 @@
 {{define "main"}}
-{{/* <div class="container">
-  <div class="row">
-    <div class="col">
-      <h1>
-        {{.Site.Title}}
-      </h1>
-      <h2>
-        {{.Params.subtitle}}
-      </h2>
-      {{.Content}}
+<ul id="homeContainer">
 
-    </div>
-  </div>
-</div> */}}
+  {{ range $link := .Params.homepageLinks}}
+  <li>
+    <a href="{{$link.link}}">
+      <img src="{{$link.image}}" alt="" />
+      <div class="overlay"><span>{{$link.name}}</span></div>
+    </a>
+  </li>
+  {{ end }}
+
+</ul>
 {{end}}

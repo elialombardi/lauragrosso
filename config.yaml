@@ -24,10 +24,14 @@ menu:
     - name: CV
       url: /cv
       weight: -110
+      params:
+        showHomepage: true
 
     - name: Blog
       url: /blog
       weight: -120
+      params:
+        showHomepage: true
 # minify:
 #   disableXML: true
 #   minifyOutput: true
