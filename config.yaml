@@ -34,6 +34,12 @@ menu:
       weight: -120
       params:
         showHomepage: true
+
+    - name: Archivio
+      url: /galleries/archivio
+      weight: -120
+      params:
+        showHomepage: true
 # minify:
 #   disableXML: true
 #   minifyOutput: true
