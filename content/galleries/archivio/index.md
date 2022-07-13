@@ -20,9 +20,9 @@ images_data:
   title: "Standing – 2022"
   description: "olio su tela 50×60 cm. "
 
-- img: "Olio-su-tela-50x60-cm.-Passanti.jpg"
+- img: "Olio-su-tela-50x60-cm-Passanti.jpg"
   title: "Passanti"
-  description: "acrilicoolio 80 x 100  cm."
+  description: "acrilico olio 80 x 100  cm."
 
 - img: "acrilico-olio-80x100-1024.jpg"
   title: "Persone sull’erba"
@@ -52,17 +52,17 @@ images_data:
   title: "Coppia Danzante 3 2020"
   description: "olio tela 100 x 80 cm. "
 
-- img: "olio-tela-100x80-cm.-figure-danzanti-819x1024.jpg"
+- img: "olio-tela-100x80-cm-figure-danzanti-819x1024.jpg"
   title: "Figure danzanti 2020"
   description: "olio su tela 40×50 cm."
 
-- img: "donna-che-canta-acrilico-olio-su-tela-40x50-cm.-822x1024.jpg"
+- img: "donna-che-canta-acrilico-olio-su-tela-40x50-cm-822x1024.jpg"
   title: "Donna che canta"
-  description: "acrilicoolio su tela 40×50 cm."
+  description: "acrilico olio su tela 40×50 cm."
 
 - img: "2019_in-viaggio-3_-acrilico_olio-su-tela-40x50-cm-1024-822x1024.jpg"
   title: "On the road"
-  description: "acrilicoolio su tela 50×50 cm."
+  description: "acrilico olio su tela 50×50 cm."
 
 - img: "in-viaggio-2-acrilico-olio-tela-50x50-2-1024.jpg"
   title: "On the road"
@@ -70,7 +70,7 @@ images_data:
 
 - img: "in-viaggio-1-olio-tela50x60-2-1024.jpg"
   title: "On the road"
-  description: "acrilicoolio su tela 40×50 cm."
+  description: "acrilico olio su tela 40×50 cm."
 
 - img: "2019_in-viaggio-4_-acrilico_olio-su-tela-40x50-cm-1024.jpg"
   title: "On the road"
@@ -156,11 +156,11 @@ images_data:
   title: "Due uomini e tre donne"
   description: "Pastelli su carta 25×20 cm."
 
-- img: "Pastelli-su-carta-24x32-cm.-1.jpg"
+- img: "Pastelli-su-carta-24x32-cm-1.jpg"
   title: "Tre bambini"
   description: "olio su tela 50×80 cm."
 
-- img: "Pastelli-su-carta-25x20-cm.-1-699x1024.jpg"
+- img: "Pastelli-su-carta-25x20-cm-1-699x1024.jpg"
   title: "Donna in nero con libro"
   description: "olio su tela 70 x 50  cm."
 
@@ -208,7 +208,7 @@ images_data:
   title: "coppia"
   description: "olio su pannello 30×30  cm."
 
-- img: "Olio-su-cartone-30x25cm.-1-818x1024.jpg"
+- img: "Olio-su-cartone-30x25cm-1-818x1024.jpg"
   title: "Olio su cartone 30x25cm."
   description: "olio su tela 100×100 cm."
 
