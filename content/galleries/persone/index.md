@@ -2,7 +2,7 @@
 title: "Persone"
 date: 2022-06-12T10:00:00+01:00
 draft: false
-subtitle: Galleria di opere
+subtitle: Figure
 images_data:
 - img: "2-80x80-acrilico-la-liberta-che-guida-il-popolo-1024-1024x1024.jpg"
   title: "La libertà che guida il popolo (2022)"

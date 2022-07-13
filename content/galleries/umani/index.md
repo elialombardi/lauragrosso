@@ -2,7 +2,7 @@
 title: "Umani"
 date: 2022-06-12T10:00:00+01:00
 draft: false
-subtitle: Galleria di opere
+subtitle: Bagnanti
 pageImage: "30x45-olio-pannello-standing-3-1024.jpg"
 images_data:
 - img: "30x45-olio-pannello-standing-3-1024.jpg"

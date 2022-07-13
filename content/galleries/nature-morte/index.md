@@ -2,7 +2,7 @@
 title: "Nature Morte"
 date: 2022-06-12T10:00:00+01:00
 draft: false
-subtitle: Galleria di opere
+subtitle: Oggetti
 images_data:
 
 - img: "olio-cartone-22x30-1.jpg"

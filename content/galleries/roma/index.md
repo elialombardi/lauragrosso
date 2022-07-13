@@ -2,7 +2,7 @@
 title: "Roma"
 date: 2022-06-12T10:00:00+01:00
 draft: false
-subtitle: Galleria di opere
+subtitle: Vedute di Roma - Italia
 images_data:
 - img: "acrilico-su-pannello-30x30-cm.-4-1021x1024.jpg"
   description: "Acrilico/pannello 30×30 cm."

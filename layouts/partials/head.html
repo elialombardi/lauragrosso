@@ -2,7 +2,7 @@
     <title>{{ .Site.Title }}{{if not .IsHome }} - {{ .Title }}{{end}}</title>
     <meta charset="utf-8">
     <meta name="description"
-        content="{{if not .IsHome }}{{ .Description }}{{else}}{{ .Site.Params.Description }}{{end}}" />
+        content="{{if not .IsHome }}{{ .Params.subtitle }}{{else}}{{ .Site.Params.Description }}{{end}}" />
     <meta name="dc.relation" content="{{ .Site.BaseURL }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#1A94D2" />
@@ -14,9 +14,9 @@
     <meta property="og:title" content="{{ .Site.Title }}{{if not .IsHome }} - {{ .Title }}{{end}}" />
     <meta property="twitter:title" content="{{ .Site.Title }}{{if not .IsHome }} - {{ .Title }}{{end}}" />
     <meta property="og:description"
-        content="{{if not .IsHome }}{{ .Description }}{{else}}{{ .Site.Params.Description }}{{end}}" />
+        content="{{if not .IsHome }}{{ .Params.subtitle }}{{else}}{{ .Site.Params.Description }}{{end}}" />
     <meta property="twitter:description"
-        content="{{if not .IsHome }}{{ .Description }}{{else}}{{ .Site.Params.Description }}{{end}}" />
+        content="{{if not .IsHome }}{{ .Params.subtitle }}{{else}}{{ .Site.Params.Description }}{{end}}" />
 
     {{ if isset .Params "pageImage" }}
     <meta property="og:image" content="{{.Permalink}}{{.Page.Params.pageImage}}" />
