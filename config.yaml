@@ -23,21 +23,22 @@ menu:
       url: /galleries/nature-morte
       weight: -127
 
+    - name: Blog
+      url: /blog
+      weight: -120
+      params:
+        showHomepage: true
+        
     - name: CV
       url: /cv
       weight: -110
       params:
         showHomepage: true
 
-    - name: Blog
-      url: /blog
-      weight: -120
-      params:
-        showHomepage: true
 
     - name: Archivio
       url: /galleries/archivio
-      weight: -120
+      weight: -100
       params:
         showHomepage: true
 # minify:
