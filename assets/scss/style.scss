@@ -1,25 +1,4 @@
-// // src/assets/scss/style.scss
-
-// @import "bootstrap/functions";
-// @import "bootstrap/variables";
-// @import "bootstrap/maps";
-// @import "bootstrap/mixins";
-// @import "bootstrap/utilities";
-// @import "bootstrap/root";
-// @import "bootstrap/reboot";
-// @import "bootstrap/type";
-// @import "bootstrap/images";
-// @import "bootstrap/containers";
-// @import "bootstrap/grid";
-// @import "bootstrap/tables";
-// // @import "bootstrap/forms";
-// @import "bootstrap/buttons";
-// @import "bootstrap/transitions";
-// @import "bootstrap/dropdown";
-// // @import "bootstrap/button-group";
-// //
-// // ...and the rest of the Bootstrap imports
-// @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,300;0,500;0,600;0,700;1,100;1,300;1,400&display=swap');
 
 @font-face {
   font-family: "Nanum Gothic";
@@ -28,23 +7,10 @@
   font-style: normal
 }
 
-// @font-face {
-//   font-family: "Nanum Gothic";
-//   src: url("/fonts/nanum-gothic/NanumGothic-Bold.ttf") format("truetype");
-//   font-weight: bold;
-//   font-style: normal
-// }
-
-// @font-face {
-//   font-family: "Nanum Gothic";
-//   src: url("/fonts/nanum-gothic/NanumGothic-ExtraBold.ttf") format("truetype");
-//   font-weight: bolder;
-//   font-style: normal
-// }
 
 
 body {
-  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 100;
 }
 
