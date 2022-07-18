@@ -1,5 +1,5 @@
 <nav class="nav flex-column sticky-top">
-  <a class="nav-link main-nav-link active" href="/lauragrosso/">Laura Grosso</a>
+  <a class="nav-link main-nav-link active" href="/">Laura Grosso</a>
   {{ $currentPage := . }}
   {{ range .Site.Menus.main }}
   {{ if or (ne $currentPage.IsHome true) (eq .Params.showHomepage true)}}

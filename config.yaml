@@ -1,6 +1,6 @@
-baseURL: "https://elialombardi.github.io/lauragrosso/"
+baseURL: "https://lauragrosso.com"
 languageCode: "en-us"
-title: "Laura Grosso Test"
+title: "Laura Grosso"
 enableRobotsTXT: true
 publishdir: "./docs/"
 params:
