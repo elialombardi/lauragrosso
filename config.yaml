@@ -31,6 +31,12 @@ menu:
       params:
         showHomepage: true
 
+    - name: Contatti
+      url: /contatti
+      weight: -119
+      params:
+        showHomepage: true
+
     # - name: Blog
     #   url: /blog
     #   weight: -110
