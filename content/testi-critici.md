@@ -3,9 +3,9 @@ title: "Testi Critici"
 date: 2022-10-17T12:49:12+02:00
 draft: false
 ---
-# DIVINE TRAME D'AMORE
-## Omaggio alla pittura "non eloquente".
-## Alfonso Goi, 2022
+## DIVINE TRAME D'AMORE
+__Omaggio alla pittura "non eloquente".__
+__Alfonso Goi, 2022__
 
 La pittura di Laura Grosso ha origini lontane, affonda le sue radici nella "Scuola romana", formandosi come allieva di Alberto Ziveri. E proprio qui ha maturato e ha stabilito in se stessa quelle convinzioni riguardo al fare artistico che non ha mai abbandonato: la pittura ha un costante rapporto dialettico con la realtà e quindi è pittura di "figure", di oggetti e di paesaggi.
 
@@ -19,8 +19,8 @@ All'Amore è connesso il tema dell'Eden, che ha avuto eccelsi interpreti, basti 
 E come l'Amore è un'urgenza primordiale, lo è anche la Pittura, in fondo il tema dei temi della nostra pittrice. Infatti questi temi si incarnano tutti nella Pittura, perché la Grosso non si serve della pittura per illustrarli, ma li fa vivere nella sostanza stessa di quest'arte alla quale non si accede senza una vera ispirazione.
 E come l'Amore, la Pittura si cerca, si trova, ti sfugge, si ritrova, in un percorso complesso ed emozionante, inarrestabile e imprescindibile, tessuto di divine trame.
  
-# The Seaside-Paintings
-## Barbara Goebels, 2005
+## The Seaside-Paintings
+__Barbara Goebels, 2005__
 
 Laura Grosso leaves Rome, main subject of her paintings, for Anzio, popular city on the coast of Lazio. 
 Gentle breeze, hazy beach, summer feeling - the artist catches this special mood in her bathing scenes. People, children are wading in the ripples of the smooth Mediterranean Sea, bathing or playing in the sand.
@@ -33,12 +33,12 @@ Laura Grosso uses non-primary colors, so called Mezzatinta, each with the admixt
 Impastoed paint makes the light reflect in a particular way and permits a special texture on the painting. In some works painting- knife strokes are visible and create an almost sculptural effect.
 Laura Grosso's Seaside Paintings as the Roman Vedute, rendered in different painting techniques create a stunning atmospheric impression of natural and urban spaces.
 
-# Painting Yesterday's World Today, by Philip Pearlstein
-## Philip Perlstein, 1996
+## Painting Yesterday's World Today, by Philip Pearlstein
+__Philip Perlstein, 1996__
 
 Laura Grosso understands that yesterday's world is the one that we live in. In old Rome we walk on last century's lava stone streets between Medieval, Renaissance and 19th century tenement walls, all colored in varied shades of earthy yellows. Occasionally vistas open. Ancient Roman ruins are abruptly there in front of us. Sculptured figures are plunked about. However, every glimpse down the street looks familiar; we already know the vistas. And yet contemporary painters, artists schooled in all the varied phases of modernism, still want to create paintings out of those glimpses. Laura Grosso is one of those artists in thrall to the visual experience of Rome, and has chosen to paint it. It takes a great deal of nerve for a young artist today who is ambitious to make a mark as an artist, to choose Rome as her subject and to paint it so directly. There is such a long and daunting history of depicting Rome in paint. From the straightforward cartographic to the picturesque; heroic Piranesi to expressionistic Kokoshka. Rome and its countryside has been depicted in every major historical style and emotional pitch. How can a contemporary artist circumvent that history?                                                                                                                                              Grosso chooses to concentrate on capturing through paint the light of the city, and simply ignores the history of styles. She also pays no attention to the array of contemporary styles, those of "concept art", "politically correctness', or "magic realism". Instead, by concentrating on the fleeting qualities of light, Grosso bypasses sentiment, sociology and the politics of picturesqueness. She allows the forms that fall into her view to build their own abstract relationships in a manner reminiscent of Morandi, and she finds magic in the straightforward depiction of those forms. "Optical correctness" becomes the equal of "political correctness". Laura Grosso elevates the act of concentrated seeing and it's recreation through paint, to equal status with those other styles.
 
-# Paolo Balmas, 1982
+## Paolo Balmas, 1982
 
 Chi è più sprovveduto, l'artista che si ripropone di trasmettere direttamente delle emozioni fornendole in sovraccarico attraverso immagini assolutamente leggibili, o il critico benevolmente disposto a qualsiasi forma di ritorno alla figurazione solo a patto, però, che dietro vi sia una buona dose di gratificazione intellettuale?
 La risposta diviene più facile se facciamo notare che le immagini della Grosso sono quasi tutte riprese da foto di famiglia e riviste di attualità; assemblate in maniera tale da far sempre pensare ad un qualche racconto; regolate su di un tono che sta tra il melodramma, il romanzo ottocentesco e la poesia superintimista; dipinte magistralmente in piena luce impressionista o con smaliziatissimi effetti di illuminazione su fondo scuro
