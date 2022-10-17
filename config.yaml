@@ -31,9 +31,15 @@ menu:
       params:
         showHomepage: true
 
+    - name: Testi Critici
+      url: /testi-critici
+      weight: -119
+      params:
+        showHomepage: true
+
     - name: Contatti
       url: /contatti
-      weight: -119
+      weight: -118
       params:
         showHomepage: true
 

@@ -1,0 +1,45 @@
+---
+title: "Testi Critici"
+date: 2022-10-17T12:49:12+02:00
+draft: false
+---
+# DIVINE TRAME D'AMORE
+## Omaggio alla pittura "non eloquente".
+## Alfonso Goi, 2022
+
+La pittura di Laura Grosso ha origini lontane, affonda le sue radici nella "Scuola romana", formandosi come allieva di Alberto Ziveri. E proprio qui ha maturato e ha stabilito in se stessa quelle convinzioni riguardo al fare artistico che non ha mai abbandonato: la pittura ha un costante rapporto dialettico con la realtà e quindi è pittura di "figure", di oggetti e di paesaggi.
+
+A ben guardare tutto ruota attorno a quelle figure, gli umani, come spesso Laura Grosso titola alcuni quadri di bagnanti, umani sulla spiaggia, umani nell'acqua. Ma anche umani ad una festa danzante o ad un ritrovo elegante o popolare, oppure in gruppo, dando la sensazione di camminare insieme verso un futuro luminoso.
+Sembra che Laura Grosso ci scruti, nei nostri atteggiamenti più comuni e in diversi contesti, non ricorre quasi mai a modelli o modelle in posa, ma ricorre a rapidi schizzi dal vero e a degli scatti fotografici o anche addirittura a foto interessanti trovate sui rotocalchi, cercando di fermare quella naturalezza con cui noi umani stiamo seduti o camminiamo o facciamo un gesto espressivo, eloquente, quando ci chiniamo verso un bambino, o appoggiamo un braccio ad un supporto come un muretto per riposarci. Vengono in mente certe "umanissime" posizioni, nel senso di molto naturali e vere, che assumono i personaggi di molti dipinti di Puvis de Chavannes, che però, pur abile osservatore, era costretto poi a ricreare queste pose in studio perdendone la naturalezza. Lo stesso Cézanne nei suoi Bagnanti fatica a ricreare in studio la bellezza dei tanti gesti che poteva osservare dal vivo. Si salva, per renderli naturali, immergendoli in multipli riflessi di colore e luce. Non a caso ho citato due grandi pittori di "figure", di composizioni di figure, perché il tema é proprio la composizione e l'arte di comporre sta nel prodotto di uno sforzo riuscito di creare un equilibrio nello scandire gli spazi, di muovere e collocare sulla scena.
+Cezanne per esempio, con l'intento di rinnovare con un senso di en plein air l'antica grande arte figurativa dai Greci a Giotto ai Veneti a Michelangelo a Poussin. Laura Grosso si inserisce proprio su questo solco avendone piena coscienza. Ma è anche persona del suo tempo per cui tecniche e contenuti ce la fanno sentire contemporanea.
+In realtà i temi affrontati da Laura Grosso sono temi che hanno accompagnato l'umanità da sempre: l'aspirazione alla libertà collettiva si, ma anche e inscindibilmente personale. Quell'anelito deve prima di tutto nascere dal profondo di noi stessi per essere autentico, in modo che la coscienza di sé sia premessa di una   coscienza collettiva.
+Poi il tema della danza, a cui Matisse, pittore molto amato da Laura Grosso, ha dedicato alcuni capolavori. La danza come espressione dell'unione armonica tra uomo e donna. Simbolo dell'amore spirituale e fisico.
+All'Amore è connesso il tema dell'Eden, che ha avuto eccelsi interpreti, basti pensare a Tintoretto e Tiziano.
+ 
+E come l'Amore è un'urgenza primordiale, lo è anche la Pittura, in fondo il tema dei temi della nostra pittrice. Infatti questi temi si incarnano tutti nella Pittura, perché la Grosso non si serve della pittura per illustrarli, ma li fa vivere nella sostanza stessa di quest'arte alla quale non si accede senza una vera ispirazione.
+E come l'Amore, la Pittura si cerca, si trova, ti sfugge, si ritrova, in un percorso complesso ed emozionante, inarrestabile e imprescindibile, tessuto di divine trame.
+ 
+# The Seaside-Paintings
+## Barbara Goebels, 2005
+
+Laura Grosso leaves Rome, main subject of her paintings, for Anzio, popular city on the coast of Lazio. 
+Gentle breeze, hazy beach, summer feeling - the artist catches this special mood in her bathing scenes. People, children are wading in the ripples of the smooth Mediterranean Sea, bathing or playing in the sand.
+Bathing scenes magically attracted painters throughout Art History. Especially in Impressionism the new painting technique bore reference to the play of light and many artists created light-flooded seascape.
+The delineation of hazy sea air, due to the aerosols above the water, was a challenge.
+ In her work Laura Grosso is concerned about light and its impact on colors, its power to structure space and build  a three-dimensionality within the painting.
+In Laura Grosso's Roman Vedute, the translucent light, characteristic for Mediterranean regions, plays a vital role. Reflecting on urban structure, it precisely defines the shape of famous historical buildings in the Citta Eterna, creating contrasts through shadow.  
+In Laura Grosso's Sea-Side paintings the artist experiences the effect of light on human forms. These respond to light in a quite different way than static structures.  Figures  become colored stains, abstract forms and space is used by the principle of atmospheric perspective. With this technique of 'sfumatura', an impression of  lightness and vastness is created.
+Laura Grosso uses non-primary colors, so called Mezzatinta, each with the admixture of the complementary hue in order to reduce and thus refine their saturation. From pale ocher to grey and blue, they are gradated to harmonious compositions of width. On some  of the painting panels, beach, sea , horizon and sky appear  as vertical layers. Here the artist uses the impasto technique, thick layers of oil paint.
+Impastoed paint makes the light reflect in a particular way and permits a special texture on the painting. In some works painting- knife strokes are visible and create an almost sculptural effect.
+Laura Grosso's Seaside Paintings as the Roman Vedute, rendered in different painting techniques create a stunning atmospheric impression of natural and urban spaces.
+
+# Painting Yesterday's World Today, by Philip Pearlstein
+## Philip Perlstein, 1996
+
+Laura Grosso understands that yesterday's world is the one that we live in. In old Rome we walk on last century's lava stone streets between Medieval, Renaissance and 19th century tenement walls, all colored in varied shades of earthy yellows. Occasionally vistas open. Ancient Roman ruins are abruptly there in front of us. Sculptured figures are plunked about. However, every glimpse down the street looks familiar; we already know the vistas. And yet contemporary painters, artists schooled in all the varied phases of modernism, still want to create paintings out of those glimpses. Laura Grosso is one of those artists in thrall to the visual experience of Rome, and has chosen to paint it. It takes a great deal of nerve for a young artist today who is ambitious to make a mark as an artist, to choose Rome as her subject and to paint it so directly. There is such a long and daunting history of depicting Rome in paint. From the straightforward cartographic to the picturesque; heroic Piranesi to expressionistic Kokoshka. Rome and its countryside has been depicted in every major historical style and emotional pitch. How can a contemporary artist circumvent that history?                                                                                                                                              Grosso chooses to concentrate on capturing through paint the light of the city, and simply ignores the history of styles. She also pays no attention to the array of contemporary styles, those of "concept art", "politically correctness', or "magic realism". Instead, by concentrating on the fleeting qualities of light, Grosso bypasses sentiment, sociology and the politics of picturesqueness. She allows the forms that fall into her view to build their own abstract relationships in a manner reminiscent of Morandi, and she finds magic in the straightforward depiction of those forms. "Optical correctness" becomes the equal of "political correctness". Laura Grosso elevates the act of concentrated seeing and it's recreation through paint, to equal status with those other styles.
+
+# Paolo Balmas, 1982
+
+Chi è più sprovveduto, l'artista che si ripropone di trasmettere direttamente delle emozioni fornendole in sovraccarico attraverso immagini assolutamente leggibili, o il critico benevolmente disposto a qualsiasi forma di ritorno alla figurazione solo a patto, però, che dietro vi sia una buona dose di gratificazione intellettuale?
+La risposta diviene più facile se facciamo notare che le immagini della Grosso sono quasi tutte riprese da foto di famiglia e riviste di attualità; assemblate in maniera tale da far sempre pensare ad un qualche racconto; regolate su di un tono che sta tra il melodramma, il romanzo ottocentesco e la poesia superintimista; dipinte magistralmente in piena luce impressionista o con smaliziatissimi effetti di illuminazione su fondo scuro
+E per di più accompagnate alla loro prima sortita da brani musicali indiscutibilmente belli oltre che arcinoti.
