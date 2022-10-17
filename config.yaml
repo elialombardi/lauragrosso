@@ -25,15 +25,9 @@ menu:
       weight: -127
 
         
-    - name: CV
-      url: /cv
+    - name: Bio
+      url: /bio
       weight: -120
-      params:
-        showHomepage: true
-
-    - name: Testi Critici
-      url: /testi-critici
-      weight: -119
       params:
         showHomepage: true
 

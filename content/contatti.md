@@ -8,3 +8,7 @@ Via Suvereto 30, Roma - Italia
 3429617510
 
 lgrosso55@gmail.com
+
+www.lauragrosso.com
+
+www.pitturalectiodivina.com
