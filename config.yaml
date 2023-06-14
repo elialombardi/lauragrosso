@@ -24,7 +24,6 @@ menu:
       url: /galleries/nature-morte
       weight: -127
 
-        
     - name: Bio
       url: /bio
       weight: -120
@@ -36,19 +35,16 @@ menu:
       weight: -118
       params:
         showHomepage: true
-
     # - name: Blog
     #   url: /blog
     #   weight: -110
     #   params:
     #     showHomepage: true
-
-
-    - name: Archivio
-      url: /galleries/archivio
-      weight: -100
-      params:
-        showHomepage: true
+    # - name: Archivio
+    #   url: /galleries/archivio
+    #   weight: -100
+    #   params:
+    #     showHomepage: true
 # minify:
 #   disableXML: true
 #   minifyOutput: true
