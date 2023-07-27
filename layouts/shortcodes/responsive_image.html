@@ -1,0 +1,20 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $title := .Get "title" }}
+{{ $subtitle := .Get "subtitle" }}
+{{ $size := .Get "size" }}
+
+<!-- <img src="{{ $src }}" alt="{{ $alt }}" class="img-thumbnail w-25"> -->
+<div class="container mt-2 mb-5">
+    <div class="row">
+      <div class="col-md-3">
+        <img src="{{ $src }}" alt="{{ $alt }}" class="img-fluid">
+      </div>
+      <div class="col-md-9">
+        <p><b>{{ $title }}</b></p>
+        <p><i>{{ $size }}</i></p>
+        <p>{{ $subtitle }}</p>
+      </div>
+    </div>
+  </div>
+  
