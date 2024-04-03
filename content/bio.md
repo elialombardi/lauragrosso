@@ -14,6 +14,24 @@ _Laura Grosso was born in Bari in 1955, she has lived in Rome since 1966. She co
 She painted en plein air in Italy, the United States, Germany and, together with other painters, in China, Palestine and France.
 Since 2007, in her Roman studio, she has been the guide for a selected group of students._
 
+## TRACCE DI AMORE - Laura Grosso
+
+di Adriana De Angelis, aprile 2023
+
+Amore: dall' "Omnia vincit amor" all' "Amor che move il sole e l'altre stelle" di Dante nonché a "L'unica cosa importante quando ce ne andremo, saranno le tracce d'amore che avremo lasciato" di Albert Schweitzer, l'Amore, sin dall'inizio del mondo e nella sua più ampia accezione, ha attraversato i secoli e continuerà ad attraversarli fino alla fine del tempo. Intorno a quel perno imprescindibile che è l'Amore, gli esseri umani, e gli artisti in particolare, costruiscono, a volte senza nemmeno rendersene conto, le loro vite e le loro opere. Amore, croce e delizia dell'essere umano.
+
+Parlando di amore, il pensiero non può che andare alla coppia, all'uomo e alla donna e al loro rapporto che già nella Bibbia occupa un posto centrale nel racconto delle origini. Il giardino dell'Eden e la creazione tutta, infatti, altro non sono che la cornice dell'incontro tra il maschile e il femminile.
+
+... Laura Grosso, da artista e da donna figlia del nostro tempo, sentendosi direttamente chiamata in causa, dà la sua personale visione al femminile del ciclo vitale e del rapporto uomo/donna. E lo fa immergendo i protagonisti in un nuovo e più sereno giardino dell'Eden rappresentato dagli spazi verdi romani … che fanno da sfondo ideale allo svolgimento lento ed equilibrato del suo racconto pittorico. Evocando le feste galanti del ‘700, il Paradiso terrestre e la Coppia primordiale, l'artista auspica. una redenzione, un rinnovamento che portino al ritorno di quella luminosa innocenza originaria a cui in tanti aneliamo e di cui i rapporti avvertono sempre più il bisogno. Costruire un terreno comune, fatto di un linguaggio e di una cultura condivisi, nel rispetto delle reciproche differenze, come indicato da Luce Irigaray, una filosofa che Laura Grosso particolarmente ama, potrebbe essere la base su cui costruire, con amore vero, i rapporti riportando il mondo a quell'Eden perduto di cui si avverte tanto il bisogno.
+
+### English version
+
+Love: from "Omnia vincit amor" to "Amor che move il sole e l'altre stelle" by Dante as well as "The only important thing when we leave, will be the traces of love that we will have left" by Albert Schweitzer, Love, since the beginning of the world and in its broadest sense, has crossed the centuries and will continue to cross them until the end of time. Around that essential pivot which is Love, human beings, and artists in particular, build their lives and their works, sometimes without even realizing it. Love, cross and delight of the human being.
+
+Speaking of love, the thought can only go to the couple, the man and the woman and their relationship that already occupies a central place in the Bible in the story of origins. The Garden of Eden and all of creation, in fact, are nothing more than the frame of the encounter between the masculine and the feminine.
+
+... Laura Grosso, as an artist and a woman who is a daughter of our time, feeling directly called into question, gives her personal feminine vision of the life cycle and of the man/woman relationship. And she does so by immersing the protagonists in a new and more serene Garden of Eden represented by the Roman green spaces … which form the ideal backdrop to the slow and balanced development of her pictorial story. Evoking the gallant feasts of the 18th century, the earthly Paradise and the primordial couple, the artist hopes. a redemption, a renewal that will lead to the return of that luminous original innocence for which so many yearn and for which relationships increasingly feel the need. Building common ground, made up of a shared language and culture, with respect for reciprocal differences, as indicated by Luce Irigaray, a philosopher who Laura Grosso particularly loves, could be the basis on which to build, with true love, relationships bringing the world to that lost Eden so badly needed.
+
 ### CV
 
 SOLO EXHIBITIONS
