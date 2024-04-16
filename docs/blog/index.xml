@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Laura Grosso</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://lauragrosso.com/blog/</link>
     <description>Recent content in Blog on Laura Grosso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jun 2022 12:52:30 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lauragrosso.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/blog/post-2/</link>
+      <link>https://lauragrosso.com/blog/post-2/</link>
       <pubDate>Tue, 28 Jun 2022 12:52:30 +0200</pubDate>
-      <guid>http://localhost:1313/blog/post-2/</guid>
+      <guid>https://lauragrosso.com/blog/post-2/</guid>
       <description></description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/blog/post-1/</link>
+      <link>https://lauragrosso.com/blog/post-1/</link>
       <pubDate>Tue, 28 Jun 2022 12:52:14 +0200</pubDate>
-      <guid>http://localhost:1313/blog/post-1/</guid>
+      <guid>https://lauragrosso.com/blog/post-1/</guid>
       <description></description>
     </item>
   </channel>
