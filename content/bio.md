@@ -36,6 +36,10 @@ Speaking of love, the thought can only go to the couple, the man and the woman a
 
 SOLO EXHIBITIONS
 
+2023
+
+xxxx
+
 2020
 
 "Bathers and Dancers" Rome Art Week / Open Studio
