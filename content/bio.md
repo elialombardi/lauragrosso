@@ -38,7 +38,9 @@ SOLO EXHIBITIONS
 
 2023
 
-xxxx
+Roma, Aleph Rome Hotel
+
+European Plein Air Symposium, Tautenberg, Germany
 
 2020
 
