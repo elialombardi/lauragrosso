@@ -36,11 +36,13 @@ Speaking of love, the thought can only go to the couple, the man and the woman a
 
 SOLO EXHIBITIONS
 
+2024
+
+"That's a Party" Bari, BaArt Gallery
+
 2023
 
 Roma, Aleph Rome Hotel
-
-European Plein Air Symposium, Tautenberg, Germany
 
 2020
 
@@ -139,6 +141,10 @@ European Plein Air Symposium, Tautenberg, Germany
 "Gouache" Bari, Sporting Club Gallery
 
 GROUP EXHIBITIONS
+
+2023
+
+European Plein Air Symposium, Tautenberg, Germany
 
 2021
 
