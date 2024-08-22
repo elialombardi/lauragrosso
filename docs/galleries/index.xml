@@ -2,39 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on Laura Grosso</title>
-    <link>https://lauragrosso.com/galleries/</link>
+    <link>http://localhost:1313/galleries/</link>
     <description>Recent content in Galleries on Laura Grosso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 10:00:00 +0100</lastBuildDate>
-    <atom:link href="https://lauragrosso.com/galleries/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cose</title>
-      <link>https://lauragrosso.com/galleries/nature-morte/</link>
-      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
-      <guid>https://lauragrosso.com/galleries/nature-morte/</guid>
-      <description>&#xD;</description>
-    </item>
-    <item>
-      <title>Persone</title>
-      <link>https://lauragrosso.com/galleries/persone/</link>
-      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
-      <guid>https://lauragrosso.com/galleries/persone/</guid>
-      <description>&#xD;</description>
-    </item>
-    <item>
-      <title>Roma</title>
-      <link>https://lauragrosso.com/galleries/roma/</link>
-      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
-      <guid>https://lauragrosso.com/galleries/roma/</guid>
-      <description>&#xD;</description>
-    </item>
-    <item>
-      <title>Umani</title>
-      <link>https://lauragrosso.com/galleries/umani/</link>
-      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
-      <guid>https://lauragrosso.com/galleries/umani/</guid>
-      <description>&#xD;</description>
-    </item>
+    <atom:link href="http://localhost:1313/galleries/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

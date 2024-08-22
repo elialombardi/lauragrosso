@@ -2,74 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Laura Grosso</title>
-    <link>https://lauragrosso.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Laura Grosso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jun 2022 12:52:30 +0200</lastBuildDate>
-    <atom:link href="https://lauragrosso.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second Post</title>
-      <link>https://lauragrosso.com/blog/post-2/</link>
-      <pubDate>Tue, 28 Jun 2022 12:52:30 +0200</pubDate>
-      <guid>https://lauragrosso.com/blog/post-2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>https://lauragrosso.com/blog/post-1/</link>
-      <pubDate>Tue, 28 Jun 2022 12:52:14 +0200</pubDate>
-      <guid>https://lauragrosso.com/blog/post-1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bio</title>
-      <link>https://lauragrosso.com/bio/</link>
-      <pubDate>Tue, 28 Jun 2022 12:49:12 +0200</pubDate>
-      <guid>https://lauragrosso.com/bio/</guid>
-      <description>Bio Laura Grosso è nata a Bari nel 1955, risiede a Roma dal 1966. Compie la sua formazione a Roma presso liceo Artistico e accademia di Belle Arti di via Ripetta, guidata dai maestri Poggi, Fraschetti e Ziveri, che la introducono alla Pittura del novecento italiano. Sceglie di concentrare la propria ricerca sulla sola Pittura e specificamente sulla luce. Dipinge en plein air in Italia, negli Stati Uniti, in Germania e, insieme ad altri pittori, in Cina, in Palestina e in Francia.</description>
-    </item>
-    <item>
-      <title>Contatti</title>
-      <link>https://lauragrosso.com/contatti/</link>
-      <pubDate>Tue, 28 Jun 2022 12:49:12 +0200</pubDate>
-      <guid>https://lauragrosso.com/contatti/</guid>
-      <description>Via Suvereto 30, Roma - Italia&#xA;3429617510&#xA;lgrosso55@gmail.com&#xA;www.lauragrosso.com&#xA;www.pitturalectiodivina.com</description>
-    </item>
-    <item>
-      <title>Cose</title>
-      <link>https://lauragrosso.com/galleries/nature-morte/</link>
-      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
-      <guid>https://lauragrosso.com/galleries/nature-morte/</guid>
-      <description>&#xD;</description>
-    </item>
-    <item>
-      <title>Persone</title>
-      <link>https://lauragrosso.com/galleries/persone/</link>
-      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
-      <guid>https://lauragrosso.com/galleries/persone/</guid>
-      <description>&#xD;</description>
-    </item>
-    <item>
-      <title>Roma</title>
-      <link>https://lauragrosso.com/galleries/roma/</link>
-      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
-      <guid>https://lauragrosso.com/galleries/roma/</guid>
-      <description>&#xD;</description>
-    </item>
-    <item>
-      <title>Umani</title>
-      <link>https://lauragrosso.com/galleries/umani/</link>
-      <pubDate>Sun, 12 Jun 2022 10:00:00 +0100</pubDate>
-      <guid>https://lauragrosso.com/galleries/umani/</guid>
-      <description>&#xD;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://lauragrosso.com/tracce-amore/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lauragrosso.com/tracce-amore/</guid>
-      <description>Tracce d&amp;rsquo;Amore, 2023 &amp;ldquo;L&amp;rsquo;unica cosa importante quando ce ne andremo, saranno le tracce d&amp;rsquo;amore che avremo lasciato&amp;rdquo; - Albert Schweitzer&#xA;Ciclo pittorico di 6 quadri&#xA;Olio su tela 100x100 cm.&#xA;Testi liberamente tratti da &amp;ldquo;Essere due&amp;rdquo; di Luce Irigaray&#xA;Prologo. Villa Adriana. 2022.&#xA;Olio su tela 100x100 cm.&#xA;Come dirti: trovare le parole, scoprire il tono, toccarti senza perdermi? Toccarti e così esistere a partire dal due. L&amp;#39;ascolto che ti fa essere ti consente di udirmi.</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
