@@ -1,9 +1,9 @@
 {
-  "name": "lauragrosso",
+  "name": "speechApp",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/elialombardi/lauragrosso.git",
-  "author": "Elia Lombardi <elia.lombardi@outlook.it>",
+  "repository": "https://github.com/anthonylombardi/speechApp.git",
+  "author": "Anthony Lombardi <anthony.lombardi@virtuaule.com>",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^5.1.3"
