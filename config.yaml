@@ -30,6 +30,12 @@ menu:
       params:
         showHomepage: true
 
+    - name: Scritti
+      url: /scritti
+      weight: -119
+      params:
+        showHomepage: true
+
     - name: Contatti
       url: /contatti
       weight: -118
